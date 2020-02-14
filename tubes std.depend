@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1556454926 source:c:\users\dendy\desktop\tubes std\main.cpp
+	<iostream>
+	"tubes.h"
+	<string>
+	<stdlib.h>
+
+1556455791 c:\users\dendy\desktop\tubes std\tubes.h
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1554968540 source:c:\users\dendy\desktop\tubes std\tubes.cpp
+	"tubes.h"
+
+1556501810 source:c:\users\dendy\desktop\tubes std\pengrajin.cpp
+	"tubes.h"
+
+1556436977 source:c:\users\dendy\desktop\tubes std\relasi.cpp
+	"tubes.h"
+
+1556438863 source:c:\users\dendy\desktop\tubes std\furniture.cpp
+	"tubes.h"
+
